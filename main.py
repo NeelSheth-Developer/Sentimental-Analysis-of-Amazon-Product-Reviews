@@ -168,7 +168,7 @@ if __name__=="__main__":
         page_icon=":bar_chart:",
         initial_sidebar_state="expanded",
     )
-  st.title("Sentimental Analysis of Amazon Product Reviews")
+  st.title("👍👎Sentimental Analysis of Amazon Product Reviews")
   st.write("By Random Forest Algorithm")
   st.write("----------------------------------------------------")
   st.subheader("Enter Amazon Url")
