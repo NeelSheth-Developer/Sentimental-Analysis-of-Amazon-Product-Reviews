@@ -172,7 +172,7 @@ if __name__=="__main__":
   st.write("By Random Forest Algorithm")
   st.write("----------------------------------------------------")
   st.subheader("Enter Amazon Url")
-  url=st.text_input("",placeholder="enter url")
+  url=st.text_input("",placeholder="Enter url")
   if st.button("Enter"):
     with st.spinner("Fetching data..."):
             try:
