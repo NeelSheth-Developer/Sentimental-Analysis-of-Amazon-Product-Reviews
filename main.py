@@ -178,7 +178,7 @@ if __name__=="__main__":
             try:
                 x, df_reviews, c, p = amazon_data(url)
                 models(x)
-                st.write(df_reviews)
+                #st.write(df_reviews)
                 # Count positive and negative sentiment reviews
                 sentiment_counts = df_reviews['fed'].value_counts()
                 # Plot horizontal bar graph for sentiment analysis results
