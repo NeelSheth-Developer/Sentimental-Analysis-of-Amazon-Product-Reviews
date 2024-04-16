@@ -1,5 +1,7 @@
 <h1>📊 Sentimental-Analysis-of-Amazon-Product-Reviews</h1>
 
+Link:  https://sentimental-analysis-of-amazon-reviews.streamlit.app/
+
 • Developed a sentimental analysis project focusing on analyzing Amazon product reviews to extract insights into customer opinions and sentiments.
 
 • Utilized Natural Language Processing (NLP) techniques to preprocess and tokenize text data, including techniques like tokenization and stemming.
